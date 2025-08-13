@@ -127,5 +127,6 @@ rainy,75.0,80.0,false,yes
 
 ### b) Weather dataset:
 <img width="1357" height="966" alt="Screenshot 2025-08-08 111401" src="https://github.com/user-attachments/assets/0566b9f1-de39-4ccd-b269-0e5298fdac39" />
+
 ### RESULT: 
-  Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
+Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
